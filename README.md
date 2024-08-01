@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O **Sistema de Gestão da Academia** foi desenvolvido para automatizar o controle de inscrições, turmas e dados de alunos e professores. Com esse sistema, a academia pode gerenciar suas atividades de forma eficiente, substituindo o registro manual em cadernos para mais <a href="https://raphael08.notion.site/PROG-2-Trabalho-pr-tico-Academia-2023-2-f446bd5248c0402bb307f24fd3b5e0d5?pvs=4&authuser=0"> detalhes sobre o desafio</a>.
+O **Sistema de Gestão da Academia** foi desenvolvido para automatizar o controle de inscrições, turmas e dados de alunos e professores. Com esse sistema, a academia pode gerenciar suas atividades de forma eficiente, substituindo o registro manual em cadernos para mais <a href="https://raphael08.notion.site/PROG-2-Trabalho-pr-tico-Academia-2023-2-f446bd5248c0402bb307f24fd3b5e0d5?pvs=4&authuser=0"> detalhes sobre o desafio:</a>
 
 ## Estruturas de Dados
 
